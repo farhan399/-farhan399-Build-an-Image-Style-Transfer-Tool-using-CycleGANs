@@ -9,6 +9,7 @@
 ## Authors
 
 - CognitiveClass.ai
+- Roxanne Li is a Data Science intern at IBM Skills Network, entering level-5 study in the Mathematics & Statistics undergraduate Coop program at McMaster University.
 
 
 # Hi, It's Farhan! 👋
